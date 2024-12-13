@@ -19,9 +19,6 @@ body {
     gap: 30px;
 }
 
-/* .row:nth-child(2) {
-    margin-top: -50px; 
-} */
 .hexa-border {
     position: relative;
     width: 260px;
@@ -147,7 +144,7 @@ body {
     }
 }
 
-/* iphonese */
+/* iphoneSE */
 @media screen and (max-width:376px) {
     .hexa-container {
         gap: 20px;
